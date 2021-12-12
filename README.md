@@ -1,2 +1,21 @@
 # backward-nation-of-stabbers
+
 2002-2021
+
+# geweld
+https://nl.wikipedia.org/wiki/Geweld
+
+# chemical warfare
+https://en.wikipedia.org/wiki/Chemical_warfare
+
+# syrings
+https://en.wikipedia.org/wiki/Syringe
+
+# depot injection
+https://en.wikipedia.org/wiki/Depot_injection
+
+# isoleercel
+https://nl.wikipedia.org/wiki/Isoleercel
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
